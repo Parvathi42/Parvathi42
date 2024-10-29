@@ -1,4 +1,4 @@
-# Hello, I'm [Siva Parvathi] 👋
+# Hello, I'm Siva Parvathi 👋
 
 Welcome to my GitHub profile! I’m a passionate developer and designer, constantly exploring ways to blend creativity with technology to create meaningful digital experiences.
 
